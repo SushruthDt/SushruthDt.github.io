@@ -343,8 +343,8 @@ sup {
 blockquote {
   border-left: solid 4px;
   font-style: italic;
-  margin: 0 0 2rem 0;
-  padding: 0.5rem 0 0.5rem 2rem;
+  margin: 0 0 20rem 15;
+  padding: 0.3rem 0 0.3rem 1rem;
 }
 
 code {
@@ -520,7 +520,7 @@ hr {
 }
 
 .row > .col-6 {
-  width: 50%;
+  width: 100%;
 }
 
 .row > .off-6 {

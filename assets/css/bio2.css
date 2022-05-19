@@ -19,7 +19,7 @@
 }
 body,
 html {
-  color: teal;
+  color: rgba(35, 36, 36, 0.934);
   min-width: 600px;
   height: 100%;
   background: white;
